@@ -165,7 +165,7 @@ tbody {
                         <button type="button" class="btn btn-light"
                            onclick="deleteCart(${carts.cartnum })">삭제</button>
                      </td>
-                  </tr>
+                  </tr>  
                </tbody>
             </c:forEach>
          </table>
